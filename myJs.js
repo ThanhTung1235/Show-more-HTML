@@ -10,7 +10,7 @@ var celebrationNames = [
 
 var show = document.getElementById('show-more');
 show.onclick = function () {
-    this.classList.add('hidden-tag');
+    this.style.display = "none";
     var listName = document.getElementById('list-name');
     for (var i = 0; i <celebrationNames.length ; i++) {
         listName.innerHTML += '<li>'+ celebrationNames[i] + '</li>'
