@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a6ed39b-4648-40fa-aef7-d0bfef6a329b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/Student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Happy20-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Happy20-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/myJs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Happy20-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/20-10/Happy20-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/20-10/myJs.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,26 +28,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
+          <entry key="css" value="1" />
+          <entry key="html" value="2" />
+          <entry key="js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="46" />
-          <entry key="js" value="285" />
+          <entry key="html" value="108" />
+          <entry key="js" value="1478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="46" />
-          <entry key="JavaScript" value="285" />
+          <entry key="HTML" value="108" />
+          <entry key="JavaScript" value="1478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -55,19 +59,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Happy20-10.html">
+        <entry file="file://$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/Student.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="100">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myJs.js">
+        <entry file="file://$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/Demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="500">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -79,6 +98,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -90,6 +110,9 @@
       <list>
         <option value="$PROJECT_DIR$/Happy20-10.html" />
         <option value="$PROJECT_DIR$/myJs.js" />
+        <option value="$PROJECT_DIR$/DemoObject/css.css" />
+        <option value="$PROJECT_DIR$/DemoObject/Demo.html" />
+        <option value="$PROJECT_DIR$/DemoObject/Student.js" />
       </list>
     </option>
   </component>
@@ -119,6 +142,16 @@
               <item name="NoHope" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoHope" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NoHope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoHope" type="462c0819:PsiDirectoryNode" />
+              <item name="20-10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NoHope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoHope" type="462c0819:PsiDirectoryNode" />
+              <item name="Hien-thi-danh-sach-gai-tu-js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -128,8 +161,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Le Thanh Tung\WebstormProjects\NoHope\20-10" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,16 +192,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540279486883</updated>
-      <workItem from="1540279488325" duration="1218000" />
+      <workItem from="1540279488325" duration="8028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1218000" />
+    <option name="totallyTimeSpent" value="8028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -190,17 +228,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Happy20-10.html">
+    <entry file="file://$PROJECT_DIR$/20-10/Happy20-10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="35">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myJs.js">
+    <entry file="file://$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="560">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-10/myJs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/Student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hien-thi-danh-sach-gai-tu-js/Demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
